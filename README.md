@@ -1,4 +1,4 @@
-- Hi there✨
+### Hi there✨
 - I am Tania Banerjee and I am majoring in Computer Science and Engineering from Jalpaiguri Government Engineering College.
 - I am enthusiastic about web development and looking forward to contribute on Open Source projects in near future.
 - 📫 How to reach me: banerjeetania2019@gmail.com 
