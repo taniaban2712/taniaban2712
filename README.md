@@ -16,14 +16,8 @@
 [![@taniaban2712's Holopin board](https://holopin.me/taniaban2712)](https://holopin.io/@taniaban2712)
 
 ### STATISTICS:
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taniaban2712&show_icons=true&locale=en&layout=compact" alt="taniaban2712" /></p>
-
-###   
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=taniaban2712&show_icons=true&locale=en" alt="taniaban2712" /></p>
-
-###
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=taniaban2712&" alt="taniaban2712" /></p>
 
