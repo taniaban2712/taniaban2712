@@ -20,17 +20,3 @@
 ### HACKTOBERFEST 2022:
 
 [![@taniaban2712's Holopin board](https://holopin.me/taniaban2712)](https://holopin.io/@taniaban2712)
-
-### STATISTICS:
-
-<!--START_SECTION:waka-->
-
-#### Language Statistics
-
-<img src="https://wakatime.com/share/@5d37ff51-8e0c-4a4d-84a0-ce8a57214ea0/ce841c9e-977d-44fc-b5ff-0c21311c84b2.svg" alt="wakatime stats"></img>
-
-<!--END_SECTION:waka-->
-
-#### Github Statistics
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=taniaban2712&" alt="github stats" /></p>
