@@ -46,9 +46,7 @@ I'm **Tania Banerjee**, a passionate **Computer Science and Engineering** studen
   <summary>Click to view my coding stats 📈</summary>
 
   <p align="center">
-  <figure style="display:inline-block; margin:50px;">
-    <img src="https://wakatime.com/share/@5d37ff51-8e0c-4a4d-84a0-ce8a57214ea0/6d5d5663-7b63-4b4f-849e-d188ff2f9521.svg" alt="Wakatime Coding Stats 1" width="350"/>
-  </figure>
+  
   <figure style="display:inline-block; margin:10px;">
     <img src="https://wakatime.com/share/@5d37ff51-8e0c-4a4d-84a0-ce8a57214ea0/29c2afd7-f9d7-4d12-8164-01a0d34090f2.svg" alt="Wakatime Coding Stats 2" width="350"/>
   </figure>
